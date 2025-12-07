@@ -21,7 +21,7 @@ npm run test
 npm run test -- --run
 
 ## 📁 Структура проєкту
-
+```
 my-react-app/
 ├── src/
 │ ├── components/
@@ -34,7 +34,7 @@ my-react-app/
 ├── vitest.config.js
 ├── package.json
 └── README.md
-
+```
 ## 🧩 Технології
 
 React 19
